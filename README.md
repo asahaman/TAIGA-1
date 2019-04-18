@@ -7,7 +7,7 @@ Please direct inquiries to Jason <jdekonin@ucalgary.ca>
 
 To install, please use:
 ```
-git clone https://github.com:dekoning-lab/TAIGA.git
+git clone https://github.com/dekoning-lab/TAIGA.git
 cd TAIGA
 make
 ```
